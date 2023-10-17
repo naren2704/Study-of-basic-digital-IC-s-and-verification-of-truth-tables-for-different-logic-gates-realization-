@@ -102,12 +102,14 @@ nor (y6,a,b)
 xnor (y7,a,b);
 endmodule
 ```
-## Logic symbol & Truthtable:
-![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/0cd840ff-d611-4f89-80bd-8e35baaa14c8)
-![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/e21d43fc-6c92-4132-ade5-072995b45614)
+##  Truthtable:
+![WhatsApp Image 2023-10-17 at 15 57 38_4dba7b9f](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/cc6983de-8fa5-424a-9a52-19a330328664)
+
 
 
 ## Output:
+![c](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/99c069d9-4d5a-45c0-a047-39cbe1540e9f)
+
 ## RTL:
 ![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/57070b93-a986-4761-b4a3-4ce2ba0ae60a)
 
