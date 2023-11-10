@@ -1,4 +1,4 @@
-# Study of basic digital LOGIC GATES and verification of truth tables for different logic gates realization 
+# EX-01 Study of basic digital LOGIC GATES and verification of truth tables for different logic gates realization 
 ## AIM:
 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -88,30 +88,27 @@ Give the Input Combinations according to the Truth Table amd then simulate the O
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by:Narendran b 
-RegisterNumber:21222240069  
+RegisterNumber:212222240069  
 ```
-module nachi(a,b,y1,y2,y3,y4,y5,y6,y7);
+
+module nachi(a,b,yand,yor,ynot,yxor,ynand,ynor,yxnor); 
 input a,b;
-output y1,y2,y3,y4,y5,y6,y7;
-and (y1,a,b);
-or (y2,a,b);
-not (y3,a);
-xor (y4,a,b);
-nand (y5,a,b);
-nor (y6,a,b)
-xnor (y7,a,b);
+output yand,yor,ynot,yxor,ynand,ynor,yxnor;
+and(yand,a,b);
+or(yor,a,b);
+not(ynot,a);
+xor(yxor,a,b);
+nand(ynand,a,b);
+nor(ynor,a,b);
+xnor(yxnor,a,b);
 endmodule
 ```
 ##  Truthtable:
-![WhatsApp Image 2023-10-17 at 15 57 38_4dba7b9f](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/cc6983de-8fa5-424a-9a52-19a330328664)
-
-
-
-## Output:
-![c](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/99c069d9-4d5a-45c0-a047-39cbe1540e9f)
+![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/ce8900ba-4e70-4cac-899e-1db9796b66b3)
+![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/56b2adaa-d4f4-47df-89d1-cb00074181a0)
 
 ## RTL:
-![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/57070b93-a986-4761-b4a3-4ce2ba0ae60a)
+![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/5f22c03c-b3a6-4e56-9739-c649ffe5cb96)
 
 
 ## Result:
