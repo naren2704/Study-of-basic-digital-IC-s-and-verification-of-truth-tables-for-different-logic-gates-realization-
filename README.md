@@ -104,7 +104,8 @@ xnor(yxnor,a,b);
 endmodule
 ```
 ##  Truthtable:
-![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/ce8900ba-4e70-4cac-899e-1db9796b66b3)
+![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/4513b5e9-4152-42ab-814f-2ea177285ebc)
+
 ![image](https://github.com/naren2704/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118706984/56b2adaa-d4f4-47df-89d1-cb00074181a0)
 
 ## RTL:
